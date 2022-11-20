@@ -1,0 +1,7 @@
+@import "base";
+@include Pad();
+
+body {
+    background: linear-gradient(90deg, rgba(84,118,168,0.2840646651270208) 0%, rgba(42,67,106,1) 0%, rgba(23,35,62,1) 49%, rgba(14,14,48,1) 100%);
+    height: 100vh;
+}

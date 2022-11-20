@@ -1,0 +1,12 @@
+@import "base";
+
+#res{
+    margin: 0 auto;
+    height: 30px;
+    width: 220px;
+    background: transparent;
+    color: $Text-color;
+    border-bottom:0.8px solid rgb(79,79,79);
+    margin-bottom: 7px;
+    padding: 10px;
+  }
